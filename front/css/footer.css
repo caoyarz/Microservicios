@@ -1,0 +1,9 @@
+.footer {
+  background: black;
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  left: 0;
+}
